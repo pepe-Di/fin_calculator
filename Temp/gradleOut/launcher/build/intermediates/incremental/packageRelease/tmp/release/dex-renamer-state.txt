@@ -1,0 +1,4 @@
+#Mon Oct 18 17:50:50 NOVT 2021
+base.0=D\:\\datacube\\unity.projects\\fin_calculator\\Temp\\gradleOut\\launcher\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
